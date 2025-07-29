@@ -74,11 +74,7 @@ Invoke the Lambda function with a prompt
 The function generates an image using Bedrock
 Image is saved to S3
 A file name is returned in the response
-License
-[Your License Here]
 
-Contact
-[Your Contact Information]
 
 Acknowledgments
 AWS Bedrock
